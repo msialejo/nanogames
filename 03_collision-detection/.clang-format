@@ -1,0 +1,8 @@
+BasedOnStyle: Google
+IndentWidth: 4
+ColumnLimit: 88
+AlignAfterOpenBracket: Align
+AllowShortFunctionsOnASingleLine: None
+AlignOperands: Align
+Cpp11BracedListStyle: true
+BreakBeforeBinaryOperators: All

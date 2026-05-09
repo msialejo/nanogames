@@ -1,0 +1,22 @@
+# Compiled binaries and object files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+bin/
+obj/
+dist/
+
+# Static libraries
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# OS generated files
+.DS_Store
